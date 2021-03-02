@@ -14,7 +14,7 @@ setup(
     description="postman collection generation",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/AliaHamwi/PostmanCollection",
     author="AliaHamwi",
     author_email="Alia.Hamwi.95@gmail.com",
     license="MIT",
