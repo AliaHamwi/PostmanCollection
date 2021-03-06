@@ -1,8 +1,6 @@
 # postman collection generation
 
-[![PyPI version](https://badge.fury.io/py/postman-collection-generation.svg)](https://badge.fury.io/py/postman-collection-generation)
-
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![PyPI version](https://badge.fury.io/py/postman-collection-generation.svg)](https://badge.fury.io/py/postman-collection-generation)   [![Downloads](https://static.pepy.tech/personalized-badge/postman-collection-generation?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/postman-collection-generation)   [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Installation
 
