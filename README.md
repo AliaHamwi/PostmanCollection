@@ -2,6 +2,10 @@
 
 [![PyPI version](https://badge.fury.io/py/postman-collection-generation.svg)](https://badge.fury.io/py/postman-collection-generation)
 
+[![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.python.org/pypi/postman-collection-generation/)
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 ## Installation
 
 You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/postman_collection_generation/):
