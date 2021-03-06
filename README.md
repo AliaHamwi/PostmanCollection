@@ -1,5 +1,7 @@
 # postman collection generation
 
+[![PyPI version](https://badge.fury.io/py/postman-collection-generation.svg)](https://badge.fury.io/py/postman-collection-generation)
+
 ## Installation
 
 You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/postman_collection_generation/):
